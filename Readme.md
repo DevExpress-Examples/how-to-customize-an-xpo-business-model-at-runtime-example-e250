@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Module.cs](./CS/WinSolution.Module/Module.cs) (VB: [Module.vb](./VB/WinSolution.Module/Module.vb))
+<!-- default file list end -->
 # How to customize an XPO business model at runtime (Example)
 
 
