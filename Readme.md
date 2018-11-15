@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [PersistentObject1.cs](./CS/MyXPOClassLibrary/PersistentObject1.cs) (VB: [PersistentObject1.vb](./VB/MyXPOClassLibrary/PersistentObject1.vb))
+* [PersistentObject2.cs](./CS/MyXPOClassLibrary/PersistentObject2.cs) (VB: [PersistentObject2.vb](./VB/MyXPOClassLibrary/PersistentObject2.vb))
+* [Module.cs](./CS/WinSolution.Module/Module.cs) (VB: [Module.vb](./VB/WinSolution.Module/Module.vb))
+<!-- default file list end -->
 # How to customize an XPO business model at runtime (Example)
 
 
